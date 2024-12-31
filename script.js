@@ -1,0 +1,1 @@
+let date=document.querySelector('.date');
